@@ -139,7 +139,8 @@ namespace MyShop.Services
 
                 return model;
             }
-            else {
+            else
+            {
                 return model;
             }
         }
